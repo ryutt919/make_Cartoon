@@ -10,8 +10,11 @@
 ## 사용 기술
 - OpenCV (cv2)<br>
 - NumPy (np)<br>
-- Bilateral Filter, Median Blur, Adaptive Threshold, Morphological Transformations
+- bitwise_and, cvtColor, Bilateral Filter, Median Blur, Adaptive Threshold, Morphological Transformations
 
+## 결과
+
+![image](https://github.com/user-attachments/assets/7f457189-6e11-4db6-a63f-9ad671491f64)
 
 ## 문제점
 같은 jpg 확장자 파일임에도 로딩되지않는 이미지들이 다수 존재했다

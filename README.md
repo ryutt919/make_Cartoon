@@ -13,3 +13,5 @@
 - Bilateral Filter, Median Blur, Adaptive Threshold, Morphological Transformations
 
 
+## 문제점
+같은 jpg 확장자 파일임에도 로딩되지않는 이미지들이 다수 존재했다
